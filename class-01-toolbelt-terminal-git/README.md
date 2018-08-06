@@ -10,7 +10,7 @@ This first day of class is different in that our lecture session will continue f
 - [Overview of our Toolbelts](#toolbelt) *[30-45 minutes]*
 - [Begin going over the assigned readings](#readings) *[30-45 minutes]*
 
-*Lunch Break; we will resume in the Grace Hopper Classroom after the break*
+*Lunch Break; we will resume in the same after the break, so feel free to leave your stuff in place*
 
 - [Continuing going over the assigned readings](#readings) *[30-45 minutes]*
 - [Code demo to prep for lab](#code) *[30-45 minutes]*
