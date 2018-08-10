@@ -1,4 +1,3 @@
-// 8 February 2018
 // Functions demo
 
 'use strict';
@@ -38,7 +37,7 @@ function clue(who, where, weapon) {
 }
 
 // Called with three arguments
-// clue('Phil', 'Ada Lovelace Classroom', 'CSS');
+clue('Sarah', 'Ada Lovelace Classroom', 'CSS');
 
 // We can also call this in the console with different arguments.
 
@@ -72,7 +71,7 @@ function mathsAreHard(numOne, numTwo, numThree) {
   console.log('If this shows I will give Phil $1000');
 }
 
-// console.log(mathsAreHard(2, 5, 9)[2], 'mathsAreHard(2, 5, 9)[2]');
+console.log(mathsAreHard(2, 5, 9)[2], 'mathsAreHard(2, 5, 9)[2]');
 
 // Let's also inspect what each of the following gives us in the console: mathsAreHard, mathsAreHard(), and mathsAreHard(3, -5, Math.PI).
 
@@ -102,9 +101,9 @@ function fire() {
   var allie = 'Allie Mae Sue'; // LOCAL VARIABLE
   console.log('Here is is a global variable logged from inside a function: ' + dog);
   console.log('Allie\'s Southern name is ' + allie);
-  console.log('Demi\'s old global name is ' + demi); // um, no, because hoisting
-  var demi = 'Doggo';
-  console.log('Demi\'s new local name is ' + demi);
+  console.log('Demi\'s old global name is ' + dog); // um, no, because hoisting
+  var dog = 'Doggo';
+  console.log('Demi\'s new local name is ' + dog);
   return 'THIS IS THE RETURN STATEMENT OUTPUT';
 }
 // console.log('But, outside of the function, Demi\s name is ' + demi);
