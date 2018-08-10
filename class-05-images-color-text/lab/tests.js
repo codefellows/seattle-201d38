@@ -1,5 +1,7 @@
 'use strict';
 
+// You should not modify anything in this file, but feel free to look through it!
+
 function testSum() { //eslint-disable-line
   if (sum(4,7)[0] === 11 && sum(4,7)[1] === 'The sum of 4 and 7 is 11.') {
     console.log('%c TEST FOR sum() PASSES', 'color: green');
@@ -42,8 +44,8 @@ function testMultiplyArray() { //eslint-disable-line
 
 function testMultiplyAnyArray() { //eslint-disable-line
   if (multiplyAnyArray(testDynamicArray)[0] === 120 && multiplyAnyArray(testDynamicArray)[1] === 'The numbers 1,2,3,4,5 have a product of 120.') {
-    console.log('%c TEST FOR multiplyArray() PASSES', 'color: green');
+    console.log('%c TEST FOR multiplyAnyArray() PASSES', 'color: green');
   } else {
-    console.log('%c TEST FOR multiplyArray() FAILS', 'color: red');
+    console.log('%c TEST FOR multiplyAnyArray() FAILS', 'color: red');
   }
 }
