@@ -11,7 +11,6 @@ As a result of completing Lecture 6 of Code 201, students will:
 
 ## Readings
 
-- [Article on Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling) (Sobol)
 - ["Understanding The Problem Domain Is The Hardest Part Of Programming"](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming/) (Sonmez)
 - JS Chapter 3: "Functions, Objects, and Methods" (pp.101-144)
 - JS Chapter 5: "The Document Object Model"
