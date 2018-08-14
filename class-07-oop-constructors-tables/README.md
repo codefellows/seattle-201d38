@@ -3,7 +3,7 @@
 <a id="top"></a>
 ## Today's Plan: Week 2, Tuesday Lecture
 
-- [Buildout of the Previous Lab (Vinicio)](#codereview)
+- [Code Review (Vinicio)](#codereview)
 
 *10-minute break*
 
