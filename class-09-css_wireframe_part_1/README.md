@@ -1,4 +1,4 @@
-# Class 10: JS Debugging
+# Class 10: JS Debugging & CSS Wireframing
 
 ## Today's Plan: Week 2, Thursday Lecture
 
