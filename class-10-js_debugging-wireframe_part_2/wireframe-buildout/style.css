@@ -1,0 +1,115 @@
+/* GLOBAL STYLES */
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+* {
+  /* outline: 1px dotted orange; */
+}
+
+
+/* Positioning methodology: elements earlier in the DOM push successive elements away. */
+
+
+/* HEADER */
+
+header {
+  background: #444;
+  height: 100px;
+  margin-bottom: 30px;
+}
+
+nav {
+  width: 960px;
+  margin: 0px auto;
+}
+
+nav img {
+  margin-top: 15px;
+  margin-right: 30px;
+  float: left;
+}
+
+nav li {
+  display: inline-block;
+  margin-top: 45px;
+  margin-right: 70px;
+}
+
+a {
+  color: #888;
+  text-decoration: none;
+}
+
+
+/* MAIN */
+
+main {
+  width: 960px;
+  margin: 0px auto;
+}
+
+
+/* We are setting the gutters for the sub-banners here, which violates our "shove things away" plan but offers an elegant solution */
+
+main li {
+  float: left;
+  margin: 30px 30px 30px 0px;
+}
+
+main li:last-child {
+  margin-right: 0px;
+}
+
+
+/* MAIN - FEATURED SECTION */
+
+section img {
+  float: left;
+}
+
+section div {
+  width: calc(50% - 30px);
+  float: left;
+  padding-left: 30px;
+  margin-bottom: 30px;
+  /* outline: 1px solid red; */
+}
+
+section h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+section p {
+  height: 322px;
+  margin-bottom: 10px;
+  overflow: scroll;
+  font-style: italic;
+  line-height: 22px;
+}
+
+section button {
+  border: none;
+  font-size: 18px;
+  color: #fff;
+  background: #000;
+  padding: 10px 30px;
+  border-radius: 3px;
+  transition: 350ms;
+  cursor: pointer;
+}
+
+section button:hover {
+  background: green;
+}
+
+
+/* FOOTER */
+
+footer {
+  clear: both;
+  height: 150px;
+  background: #444;
+}
