@@ -16,7 +16,7 @@ Here is the annotated version (a little larger here to give details):
 
 ![Wireframe Annotated](images/wireframe-annotated.png)
 
-Notice how the comp is very professional and business-like, in black, white, and grays, with image dimensions clearly labeled. The comp was created using image placeholders from [placehold.it](placehold.it), which provides dimensions and makes it easy to style the color of the placeholder images by appending a hex color code to the URL. For instance, the code `<img src="https://placehold.it/200x300/ddd" />` produces the following image, with a width of 200 pixels, a height, of 300 pixels, and color of `#DDD`, which is a light gray:
+Notice how the comp is very professional and business-like, in black, white, and grays, with image dimensions clearly labeled. The comp was created using image placeholders from [placehold.it](https://place-hold.it/), which provides dimensions and makes it easy to style the color of the placeholder images by appending a hex color code to the URL. For instance, the code `<img src="https://placehold.it/200x300/ddd" />` produces the following image, with a width of 200 pixels, a height, of 300 pixels, and color of `#DDD`, which is a light gray:
 
 <img src="https://placehold.it/200x300/ddd" />
 
