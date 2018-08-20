@@ -3,8 +3,6 @@
 <a id="top"></a>
 ## Today's Plan: Week 3, Monday Lecture
 
-*Note: Today at 1:00pm in the event space there will be an instructor panel featuring the instructors of our 401 courses. The panel gives you an opportunity to meet those instructors and learn more about our 401 courses. If you're thinking of going through a 401 course you should take advantage of this opportunity to learn more.*
-
 - Q&A?
 - Anyone want to show their project from last week?
 
@@ -27,7 +25,7 @@ Looking ahead to Project Week...
 
 ## Readings
 *This was not assigned, but is a good read*
-- ["To Write Better Code, Read Virginia Woolf" by J. Bradford Hipps in the New York Times, 21 May 2016](http://www.nytimes.com/2016/05/22/opinion/sunday/to-write-software-read-novels.html) *This was not assigned but is a good article*
+- ["To Write Better Code, Read Virginia Woolf" by J. Bradford Hipps in the New York Times, 21 May 2016](http://www.nytimes.com/2016/05/22/opinion/sunday/to-write-software-read-novels.html)
 
 - HTML book, Chapter 19: Practical Information
 - HTML book, Chapter 9: Flash, Audio, and Video
