@@ -20,7 +20,7 @@
 
 **12:15: Pardner Power Hour**
 
-- [The Impact of Impostor Syndrome](https://www.eventbrite.com/e/partner-power-hour-the-impact-of-imposter-syndrome-with-convoy-tickets-49224396495)
+- [The Impact of Impostor Syndrome, with Convoy](https://www.eventbrite.com/e/partner-power-hour-the-impact-of-imposter-syndrome-with-convoy-tickets-49224396495)
 
 **1:00-???:** 
 
