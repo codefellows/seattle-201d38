@@ -63,16 +63,15 @@ Preview of the topics in Code 301, and some over-arching 'how the web works' dis
 
 - MVC
 - Responsive & Mobile-First Design
-- Single-Page Application Development (SPA)
 - Services and APIs
 - Algorithms
 - Functional Programming
-- Relational Data
+- Relational Data (SQL)
 - AJAX
 
 ##### Languages in 301
 
-- HTML with Templating
+- HTML with Templating (client-side AND server-side)
 - Modularized CSS
 - Intermediate JavaScript including Functional Programming
 - jQuery Events & DOM Manipulation
